@@ -1,9 +1,5 @@
 # Phishing Email Analysis – Lidl Prize Giveaway Campaign
 
-## Disclaimer
-
-All indicators of compromise (IOCs) contained in this report have been intentionally **defanged** to prevent accidental interaction with potentially malicious infrastructure.
-
 ---
 
 # Email Artifacts
